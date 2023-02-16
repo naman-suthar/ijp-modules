@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oldColor">OLD COLOR</string>
+    <string name="newColor">NEW COLOR</string>
+
+    <string name="HSV_TITLE" translatable="false">HSV</string>
+    <string name="RGB_TITLE" translatable="false">RGB</string>
+    <string name="HEX_TITLE" translatable="false">HEX</string>
+    <string name="r" translatable="false">R</string>
+    <string name="g" translatable="false">G</string>
+    <string name="b" translatable="false">B</string>
+    <string name="a">A</string>
+    <string name="apply_hex">Apply</string>
+    <string name="hex_code_picker">Invalid HEX code!</string>
+    <string name="chooseApp">Choose App</string>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/poppins_bold</item>
+        <item>@font/poppins_light</item>
+        <item>@font/poppins_medium</item>
+        <item>@font/poppins_semibold</item>
+    </array>
+</resources>

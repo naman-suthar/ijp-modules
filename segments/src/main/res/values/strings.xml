@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="barBack">Bar Background</string>
+    <string name="leftimage">delete</string>
+    <string name="zero">0</string>
+    <string name="hund">100</string>
+    <string name="single_tag">single</string>
+    <string name="min_text2">Minimum segment length is 5!</string>
+    <string name="min_text3">Minimum segment length is 5!</string>
+    <array name="initial_slider_values">
+        <item>25</item>
+        <item>75</item>
+    </array>
+</resources>
