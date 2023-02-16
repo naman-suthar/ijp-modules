@@ -54,7 +54,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.naman-suthar'
-                artifactId = 'ijp-segment-fragment'
+                artifactId = 'ijp-segment'
                 version = '1.0'
             }
         }
